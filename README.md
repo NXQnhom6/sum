@@ -8,3 +8,6 @@ int main (){
         scanf ("%d%d", &a,&b);
     }while(a != 0 || b != 0); 
 }
+
+
+hhhhaaslsll
