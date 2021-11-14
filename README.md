@@ -9,5 +9,4 @@ int main (){
     }while(a != 0 || b != 0); 
 }
 
-
-hhhhaaslsll
+Nhập môn CNTT Lớp 15-03 Hoàng đạt Nhóm 6
